@@ -1,0 +1,6 @@
+flask
+emoji
+keras
+transformers
+pickle
+requests
